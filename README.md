@@ -2,6 +2,8 @@
 
 API para detecção de Equipamentos de Proteção Individual (EPIs) em imagens usando YOLOv8.
 
+Este projeto utiliza o modelo YOLOv8 treinado para detecção de EPIs do repositório: [Yolov8-PPE](https://github.com/mayank13-01/Yolov8-PPE)
+
 ## Funcionalidades
 
 - Detecção de EPIs em imagens
@@ -99,19 +101,3 @@ labs/
 ├── temp/                 # Arquivos temporários
 └── venv/                 # Ambiente virtual (não versionar)
 ```
-
-## Contribuindo
-
-1. Faça um fork do repositório
-2. Crie uma branch para sua feature
-3. Commit suas alterações
-4. Faça push para a branch
-5. Abra um Pull Request
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para detalhes.
-
-## 📧 Suporte
-
-Para suporte, envie um email para [seu-email@exemplo.com] ou abra uma issue no repositório. 
